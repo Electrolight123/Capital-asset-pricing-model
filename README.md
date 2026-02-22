@@ -16,7 +16,7 @@ This project uses **Yahoo Finance data via `yfinance`**, resamples prices to **m
 ## 🧠 CAPM Formula
 
 \[
-E[R_i] = R_f + \beta_i\,(E[R_m] - R_f)
+E[R_i] = R_f + beta_i\,(E[R_m] - R_f)
 \]
 
 Where:
@@ -104,7 +104,7 @@ The plot shows:
 - Y-axis: stock log returns \(R_a\)
 - Red line: fitted CAPM line  
   \[
-  R_a = \alpha + \beta R_m
+  R_a = alpha + beta R_m
   \]
 
 ---
