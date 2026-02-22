@@ -21,7 +21,7 @@ E[R_i] = R_f + \beta_i\,(E[R_m] - R_f)
 
 Where:
 - \(R_f\) = risk-free rate  
-- \(\beta_i\) = asset beta  
+- \(beta_i\) = asset beta  
 - \(E[R_m]\) = expected market return  
 
 ---
@@ -132,5 +132,5 @@ capital-asset-pricing-model/
 
 ## 📝 License
 
-MIT (or choose any license you prefer).
+MIT .
 
